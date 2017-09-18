@@ -5,6 +5,8 @@ This Basic template lets you get started quickly with a simple working example. 
 
 Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
 
+@[start sample]({"stubs": ["cpp_fs_start.cpp"],"command": "sh ./run.sh cpp_fs_start.cpp"})
+
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/techio-basic-template/blob/master/markdowns/welcome.md)  
