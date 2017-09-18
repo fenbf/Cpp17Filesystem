@@ -13,4 +13,4 @@ projects:
     # @[Code Editor Title]({"stubs": ["EditorFile1.h", "EditorFile2.cpp", ...], "command": "run.sh"})
     # More details here: https://github.com/TechDotIO/cmake-gcc-runner
     # buildCommand: apt-get update && apt-get install -y cmake
-    runner: gcc:7.2
+    runner: gcc:7.1
