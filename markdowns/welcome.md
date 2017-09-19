@@ -5,7 +5,9 @@ This Basic template lets you get started quickly with a simple working example. 
 
 Please refer to the [documentation](https://tech.io/doc) to learn more about adding programming exercises within your contribution.
 
-@[start sample]({"stubs": ["cpp_fs_start.cpp"],"command": "sh ./run.sh cpp_fs_start.cpp"})
+@[Playing with path object]({"stubs": ["cpp_fs_start.cpp"],"command": "sh ./run.sh cpp_fs_start.cpp"})
+
+@[Iterating through files]({"stubs": ["cpp_fs_more.cpp"],"command": "sh ./run.sh cpp_fs_more.cpp"})
 
 # Template Resources
 
