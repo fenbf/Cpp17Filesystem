@@ -9,8 +9,6 @@ Please refer to the [documentation](https://tech.io/doc) to learn more about add
 
 @[Iterating through files]({"stubs": ["cpp_fs_more.cpp"],"command": "sh ./run.sh cpp_fs_more.cpp"})
 
-@[test csv]({"stubs": ["cpp_param_test.cpp", "test.csv"],"command": "sh ./run_with_param.sh cpp_param_test.cpp test.csv"})
-
 # Template Resources
 
 [`markdowns/welcome.md`](https://github.com/TechDotIO/techio-basic-template/blob/master/markdowns/welcome.md)  
